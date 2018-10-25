@@ -1,6 +1,6 @@
 # Golang S2I
 
-![alt text](https://cdn-images-1.medium.com/max/1600/1*ERojGMB35dNDZJtgdC-iFw.png)
+![alt text](https://gophercises.com/img/gophercises_jumping.gif)
 
 Based in [golang](https://github.com/amsokol/openshift-golang-template)
 
