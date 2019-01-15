@@ -1,8 +1,8 @@
 # Golang S2I
 
-![alt text](http://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif)
+![alt text](https://adaickalavan.github.io/assets/images/gophercises_lifting.jpg)
 
-Based in [golang](https://github.com/amsokol/openshift-golang-template)
+Based in [golang](https://adaickalavan.github.io/assets/images/gophercises_lifting.jpg)
 
 **Version: 1.11.1 - Defined in Dockerfile**
 
